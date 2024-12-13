@@ -1,0 +1,7 @@
+Resultados Linear Regression
+R² Entrenamiento: 0.8541
+R² Prueba: 0.8515
+
+Resultados XGBoost:
+R2 Score Train: 0.9691
+R2 Score Test: 0.9412
